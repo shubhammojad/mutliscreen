@@ -1,0 +1,38 @@
+<resources>
+    <!-- login -->
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="name">Tic Tac Toe</string>
+    <string name="login_name">Username</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login">Already Sign in ? Login Here</string>
+    <string name="Login_next">Register</string>
+    <string name="title_activity_playername">playername</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Shubham mojad</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- player Name -->
+    <string name="title">Player Name</string>
+    <string name="player1">Enter Player1 Name</string>
+    <string name="Player2">Enter Player2 Name</string>
+    <string name="Strat">Strat</string>
+
+
+    <!-- Game Screen -->
+    <string name="heading">Welcome to Tic tac Toe</string>
+    <string name="grind">grind</string>
+    <string name="status">player turn</string>
+
+    <!-- Score -->
+    <string name="score">Score</string>
+    <string name="win"></string>
+</resources>
